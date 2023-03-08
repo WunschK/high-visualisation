@@ -1,0 +1,9 @@
+record_id,redcap_survey_identifier,short_questionnaire_transcription_project_timestamp,wer,usefulness,understandability,future_use,improvements,short_questionnaire_transcription_project_complete,wer-Bed
+1,,"2023-01-21 13:32:53",1,5,5,5,"Very minor grammar issues. Word gender may be an issue in Brazilian Portuguese, we do not pronounce the end of words clearly.   Hesitation should be captured with ""..."" rather than a comma. Otherwise, it was a fantastic job!!! None of the minor errors were a problem for the understanding. It was way much better than any human transcription I have seen in Brazil! ",2,0-10%
+2,,"2023-02-14 09:50:58",2,5,4,5,"The recognition of the person speaking would be ideal and may save extra time.",2,11-20%
+3,,"2023-02-16 10:12:19",1,5,4,5,"Sometimes when the speaker sounds hesitated and repeat the same sentence, this software ignored it. ",2,0-10%
+4,,"2023-02-27 13:38:12",1,4,5,5,"Making a line break between speakers so it is clear if it is speaker a, b or c speaking. This would also be amazing if the program could tease out different voices since we really struggle with this when transcribing FGDs (figuring out who is saying what). Also, I think the program struggles with cross talk. ",2,0-10%
+5,,"2023-03-01 13:58:43",1,5,4,5,"the pause between the sentences in the audio recording could be underlined in the transcript ",2,0-10%
+6,,"2023-03-01 14:03:02",4,3,3,4,,2,31% or more
+7,,"2023-03-03 08:05:33",4,3,2,3,"on the time when the person stop when she is speaking, it help more",2,31% or more
+8,,"2023-03-07 13:33:28",3,3,5,3,"Transcribing the filler words and stutters in French (""eh"", ""euh"", ""ehm"", ""dac-d'accord"", ""le-la"") would improve verbatim transcription performance and correction time a lot.",2,21-30%
